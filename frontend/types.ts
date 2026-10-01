@@ -21,7 +21,7 @@ export interface SpellItem {
 export interface TraitItem {
   id: string;
   name: string;
-  type: string; // e.g. "Class Feature", "Racial Trait", "Feat"
+  type: string; // "Class Feature", "Racial Trait", "Feat"
   desc: string;
   classes?: string[];
   races?: string[];
