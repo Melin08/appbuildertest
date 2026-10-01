@@ -1,4 +1,4 @@
 {
   "name": "D&D 5e Character Sheet & Compendium",
-  "description": "A feature-complete, modern D&D 5e character sheet featuring live stat modifiers, interactive spell slot pips, short and long rest engines, dice roller with history, quick HP calculator, conditions tracker, and a 5e SRD compendium browser."
+  "description": "A standalone, responsive D&D 5e character sheet with live ability modifiers, interactive spell slot pips, dice roller, quick HP calculator, short and long rest engines, conditions tracker, and 5e SRD compendium search."
 }
